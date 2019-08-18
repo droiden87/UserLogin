@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.flexbricks.task.activities.EditProfileActivity">
+    <item
+        android:id="@+id/action_btn_save"
+        android:orderInCategory="100"
+        android:title="@string/menu_edit_txt"
+        android:icon="@drawable/save_check"
+        app:showAsAction="ifRoom" />
+</menu>
